@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "E-paper", "E-paper.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GxEPD2-1.2.11", "C:\Users\63248\Documents\Arduino\libraries\GxEPD2\GxEPD2-1.2.11.vcxitems", "{0896E045-D041-41DE-9052-DC317B28EB6D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Adafruit_GFX_Library-1.9.0", "C:\Users\63248\Documents\Arduino\libraries\Adafruit_GFX_Library\Adafruit_GFX_Library-1.9.0.vcxitems", "{04B27D46-0FCD-4555-8597-07807280C00E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "U8g2_for_Adafruit_GFX-1.7.0", "C:\Users\63248\Documents\Arduino\libraries\U8g2_for_Adafruit_GFX\U8g2_for_Adafruit_GFX-1.7.0.vcxitems", "{8A8C531E-83D0-4A99-B8E6-DD09272CC912}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "esp8266-1.0", "C:\Users\63248\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\libraries\esp8266\esp8266-1.0.vcxitems", "{4ED6AF3F-2030-4778-BBBC-F90C63F1D5DB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ESP8266WiFi-1.0", "C:\Users\63248\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\libraries\ESP8266WiFi\ESP8266WiFi-1.0.vcxitems", "{D8F8B902-AB3A-4775-9B64-E3395EA70D9C}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		C:\Users\63248\Documents\Arduino\libraries\Adafruit_GFX_Library\Adafruit_GFX_Library-1.9.0.vcxitems*{04b27d46-0fcd-4555-8597-07807280c00e}*SharedItemsImports = 9
+		C:\Users\63248\Documents\Arduino\libraries\GxEPD2\GxEPD2-1.2.11.vcxitems*{0896e045-d041-41de-9052-dc317b28eb6d}*SharedItemsImports = 9
+		C:\Users\63248\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\libraries\esp8266\esp8266-1.0.vcxitems*{4ed6af3f-2030-4778-bbbc-f90c63f1d5db}*SharedItemsImports = 9
+		C:\Users\63248\Documents\Arduino\libraries\U8g2_for_Adafruit_GFX\U8g2_for_Adafruit_GFX-1.7.0.vcxitems*{8a8c531e-83d0-4a99-b8e6-dd09272cc912}*SharedItemsImports = 9
+		C:\Users\63248\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\libraries\ESP8266WiFi\ESP8266WiFi-1.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		C:\Users\63248\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\libraries\esp8266\esp8266-1.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		C:\Users\63248\Documents\Arduino\libraries\Adafruit_GFX_Library\Adafruit_GFX_Library-1.9.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		C:\Users\63248\Documents\Arduino\libraries\GxEPD2\GxEPD2-1.2.11.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		C:\Users\63248\Documents\Arduino\libraries\U8g2_for_Adafruit_GFX\U8g2_for_Adafruit_GFX-1.7.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		C:\Users\63248\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\libraries\ESP8266WiFi\ESP8266WiFi-1.0.vcxitems*{d8f8b902-ab3a-4775-9b64-e3395ea70d9c}*SharedItemsImports = 9
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7E6860B-6DC0-4FB9-A356-FD1AF784B2BF}
+	EndGlobalSection
+EndGlobal
